@@ -53,8 +53,7 @@ This tool is for educational and professional demonstration purposes. Ensure com
 ## License
 [Choose an appropriate open-source license, e.g., MIT License]
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page).
+
 
 ## Contact
-[Your Name] - [Your Email/LinkedIn]
+Deep Patel - deeppatel291001@gmail.com

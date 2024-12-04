@@ -50,10 +50,5 @@ python email_automation.py
 ## Disclaimer
 This tool is for educational and professional demonstration purposes. Ensure compliance with email communication laws and regulations.
 
-## License
-[Choose an appropriate open-source license, e.g., MIT License]
-
-
-
 ## Contact
 Deep Patel - deeppatel291001@gmail.com
